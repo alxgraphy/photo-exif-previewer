@@ -44,9 +44,9 @@ Missing exposure/aperture? Some edited/exported photos strip technical EXIF tags
 HEIC support works great on recent macOS/Windows with Pillow installed.
 Want CSV export? Add pandas and save the table (let me know if you want that upgrade!)
 
-Made with ❤️ in Toronto by Alexander Wondwossen (@alxgraphy)
+Made with ❤️ in Toronto, Canada 🇨🇦 by Alexander Wondwossen (@alxgraphy)
 
-### Ideas To add Fixes
+### Additional Stuff
 Feel free to fork, modify, use, and share — open an issue/PR if you like it or want improvements!
 
 ### License
