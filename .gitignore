@@ -1,0 +1,17 @@
+# Python / virtual env
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# macOS junk
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Photos (don't upload your actual images)
+*.jpg
+*.jpeg
+*.heic
+*.HEIC
