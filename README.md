@@ -19,6 +19,10 @@ Perfect for photographers, travelers, or anyone who wants a quick overview of ca
 - Auto-scans the current folder — no typing long paths
 - Clean, aligned console table output
 
+  ### If you don't want to make it your self
+  You can Go to [Exif-Viewer](https://exif-dashboard.streamlit.app)
+  
+
 ### Requirements
 
 - Python 3.8+
@@ -44,10 +48,11 @@ Missing exposure/aperture? Some edited/exported photos strip technical EXIF tags
 HEIC support works great on recent macOS/Windows with Pillow installed.
 Want CSV export? Add pandas and save the table (let me know if you want that upgrade!)
 
-Made with ❤️ in Toronto, Canada 🇨🇦 by Alexander Wondwossen (@alxgraphy)
 
 ### Additional Stuff
 Feel free to fork, modify, use, and share — open an issue/PR if you like it or want improvements!
+
+Made with ❤️ in Toronto, Canada 🇨🇦 by Alexander Wondwossen (@alxgraphy)
 
 ### License
 Copyright 2026 Alexander Wondwossen
