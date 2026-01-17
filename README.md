@@ -1,4 +1,4 @@
-# Photo EXIF Previewer 📸
+# Terminal Photo Exif Viewer 📸
 
 A lightweight Python script that scans a folder of photos (JPEG, HEIC) and prints a beautifully formatted table of their EXIF metadata.
 
