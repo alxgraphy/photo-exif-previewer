@@ -32,7 +32,7 @@ Perfect for photographers, travelers, or anyone who wants a quick overview of ca
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/alxgraphy/photo-exif-previewer-.git
+   git clone https://github.com/thealxlabs/photo-exif-previewer-.git
    cd photo-exif-previewer-
 
 Create and activate a virtual environment (recommended):Bashpython3 -m venv .venv
@@ -52,7 +52,7 @@ Want CSV export? Add pandas and save the table (let me know if you want that upg
 ### Additional Stuff
 Feel free to fork, modify, use, and share — open an issue/PR if you like it or want improvements!
 
-Made with ❤️ in Toronto, Canada 🇨🇦 by Alexander Wondwossen (@alxgraphy)
+Made with ❤️ in Toronto, Canada 🇨🇦 by Alexander Wondwossen (@thealxlabs)
 
 ### License
 Copyright 2026 Alexander Wondwossen
